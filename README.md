@@ -4,56 +4,77 @@
 
 # 🧠 MybrAIn
 
-**Industrial AI-Powered SCADA Ecosystem**
+**Sistema Inteligente de Eficiencia Energética**
 
-![Status](https://img.shields.io/badge/status-in%20development-blue?style=flat-square)
-![Type](https://img.shields.io/badge/type-private%20project-lightgrey?style=flat-square)
-![Stack](https://img.shields.io/badge/stack-Python%20%7C%20TypeScript%20%7C%20SQL-informational?style=flat-square)
+*Solución integral para la optimización de instalaciones de refrigeración industrial*
+
+![Status](https://img.shields.io/badge/estado-en%20desarrollo%20activo-blue?style=flat-square)
+![Type](https://img.shields.io/badge/tipo-proyecto%20privado-lightgrey?style=flat-square)
 
 </div>
 
 ---
 
-## 🔒 This is a public placeholder
+## 🔒 Repositorio público de referencia
 
-MybrAIn is an **active, private project** currently in development.
-
-This repository exists to signal that the project is alive and progressing — no source code or sensitive information is published here.
+MybrAIn es un **proyecto activo en desarrollo**. Este repositorio existe como referencia pública — no se publica código fuente ni información sensible.
 
 ---
 
-## 💡 What is MybrAIn?
+## 💡 ¿Qué es MybrAIn?
 
-MybrAIn is a centralised industrial intelligence ecosystem designed to sit on top of existing SCADA infrastructure and bring advanced data capabilities to industrial environments.
+MybrAIn es un sistema de monitorización y control inteligente, totalmente integrable en instalaciones frigoríficas nuevas y existentes. Basado en módulos personalizables y adaptables al diseño de la planta y las necesidades de cada cliente.
 
-The project spans multiple layers:
-
-- **Data acquisition & normalisation** from industrial sources
-- **Real-time monitoring & alerting** with intelligent thresholds
-- **AI-assisted analysis** for operational insights
-- **Web-based dashboards** for operators and engineers
-- **Modular architecture** to integrate across different industrial platforms
+El sistema se integra con plataformas SCADA, ERP, SAP y similares, reduciendo los costes de explotación. Puede implementarse de forma local, en servidores dedicados o en la nube.
 
 ---
 
-## 🚧 Development Status
+## 🧩 Módulos
 
-The project is currently under active development. Architecture, core modules and initial integrations are being built out.
-
-No public releases are planned at this stage.
+| Módulo | Descripción |
+|---|---|
+| **Monitorización y Análisis** | Control en tiempo real de la producción frigorífica/calorífica con análisis predictivo |
+| **Gestión de Costes** | Optimización automática según tarifas eléctricas y energías renovables |
+| **Optimización de Demanda** | Gestión predictiva de la demanda térmica con control inteligente |
+| **Salas de Máquinas** | Control avanzado de compresores, bombas y condensadores |
+| **Producción de Calor** | Aprovechamiento del calor residual y optimización de bombas de calor |
+| **Mantenimiento Inteligente** | Mantenimiento predictivo con supervisión continua |
 
 ---
 
-## 📨 Contact
+## 📊 Resultados
 
-For enquiries about the project:
+- **~25%** de reducción media en costes energéticos*
+- **24/7** monitorización continua y alertas
+- **12–18 meses** de retorno de inversión estimado*
+- **CO₂↓** reducción significativa de emisiones
 
-- **Author:** Luis Rodríguez López
+*\* Los datos pueden variar según la instalación.*
+
+---
+
+## 🚧 Estado del desarrollo
+
+El proyecto se encuentra en desarrollo activo. La arquitectura, los módulos principales y las integraciones iniciales están siendo construidos.
+
+No hay publicaciones públicas previstas en esta etapa.
+
+---
+
+## 🌐 Más información
+
+Visita [mybrain.es](https://mybrain.es) para conocer el producto en detalle.
+
+---
+
+## 📨 Contacto
+
+- **Autor:** Luis Rodríguez López
 - **GitHub:** [@luisrodriguezlopez96](https://github.com/luisrodriguezlopez96)
 - **Email:** luisrodriguezlopez96@gmail.com
 
 ---
 
 <div align="center">
-<sub>Built in Vigo, Galicia — © 2026 Luis Rodríguez López. All rights reserved.</sub>
+<sub>Desarrollado en Vigo, Galicia — © 2026 Luis Rodríguez López. Todos los derechos reservados.</sub>
 </div>
