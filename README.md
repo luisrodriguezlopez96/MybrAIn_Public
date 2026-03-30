@@ -75,13 +75,6 @@ Trabajo actualmente en:
 - Integración con sistemas de supervisión existentes en entornos industriales.
 - Desarrollo de herramientas internas para pruebas, monitorización y análisis.
 
----
-
-## 👨‍💻 Rol en el proyecto
-
-MybrAIn es un proyecto propio que combina experiencia en automatización industrial, eficiencia energética y desarrollo de software.
-
----
 
 ## 🚧 Estado del desarrollo
 
