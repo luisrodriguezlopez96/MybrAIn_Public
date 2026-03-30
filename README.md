@@ -10,6 +10,7 @@
 
 ![Status](https://img.shields.io/badge/estado-en%20desarrollo%20activo-blue?style=flat-square)
 ![Type](https://img.shields.io/badge/tipo-proyecto%20privado-lightgrey?style=flat-square)
+[![Web](https://img.shields.io/badge/web-mybrain.es-informational?style=flat-square)](https://mybrain.es)
 
 </div>
 
@@ -53,28 +54,37 @@ El sistema se integra con plataformas SCADA, ERP, SAP y similares, reduciendo lo
 
 ---
 
+## 🧱 Visión técnica (alto nivel)
+
+MybrAIn se diseña como un sistema modular orientado a:
+
+- Orquestar datos procedentes de múltiples fuentes industriales.
+- Aplicar lógica avanzada de control y optimización sobre dichos datos.
+- Exponer información accionable a distintos perfiles: operación, mantenimiento y gestión.
+
+A nivel conceptual se estructura en capas desacopladas de adquisición de datos, procesamiento y presentación, permitiendo adaptar cada despliegue a la realidad de la planta.
+
+---
+
+## 🔭 Líneas de trabajo actuales
+
+Trabajo actualmente en:
+
+- Diseño y validación de la arquitectura modular del sistema.
+- Definición de modelos de datos y flujos de información entre módulos.
+- Integración con sistemas de supervisión existentes en entornos industriales.
+- Desarrollo de herramientas internas para pruebas, monitorización y análisis.
+
+---
+
+## 👨‍💻 Rol en el proyecto
+
+MybrAIn es un proyecto propio que combina experiencia en automatización industrial, eficiencia energética y desarrollo de software.
+
+---
+
 ## 🚧 Estado del desarrollo
 
 El proyecto se encuentra en desarrollo activo. La arquitectura, los módulos principales y las integraciones iniciales están siendo construidos.
 
 No hay publicaciones públicas previstas en esta etapa.
-
----
-
-## 🌐 Más información
-
-Visita [mybrain.es](https://mybrain.es) para conocer el producto en detalle.
-
----
-
-## 📨 Contacto
-
-- **Autor:** Luis Rodríguez López
-- **GitHub:** [@luisrodriguezlopez96](https://github.com/luisrodriguezlopez96)
-- **Email:** luisrodriguezlopez96@gmail.com
-
----
-
-<div align="center">
-<sub>Desarrollado en Vigo, Galicia — © 2026 Luis Rodríguez López. Todos los derechos reservados.</sub>
-</div>
